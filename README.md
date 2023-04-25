@@ -34,7 +34,7 @@ The data set contains the images of the following diseases:
 - Google Colab
 
 ## Acknowledgements
--
+- The international skin imaging collaboration for the images.
 
 ## Contact
 Ranganath
